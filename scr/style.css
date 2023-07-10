@@ -1,0 +1,252 @@
+#toggleDark {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+#_container_f1 {
+  z-index: 1;
+  height: 50vw;
+}
+
+.container {
+  z-index: 99;
+}
+
+#particles-js {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+#photoPorfileMe {
+  border-radius: 500px;
+  background: rgb(241, 201, 59);
+  background: radial-gradient(circle, rgb(241, 201, 59) 41%, rgb(26, 93, 26) 100%);
+  padding: 10px;
+  box-shadow: rgb(241, 201, 59) 0px 14px 28px, rgb(26, 93, 26) 0px 10px 10px;
+}
+
+#_container_f2 {
+  height: 40vw;
+}
+
+#myNameSVG {
+  filter: drop-shadow(0 0 30px #fffb04);
+}
+
+@media only screen and (max-width: 1000px) {
+  #_container_f1 {
+    height: auto;
+  }
+  #_container_f2 {
+    height: auto;
+  }
+}
+.brake {
+  width: 100%;
+  height: 5px;
+  background-color: #000;
+}
+
+@media only screen and (max-width: 900px) {
+  #brake_n #mode_1 {
+    display: block;
+    width: 100%;
+  }
+  #brake_n #mode_1 p {
+    text-align: center;
+    font-size: 2rem !important;
+  }
+  #brake_n #modeBrakedown {
+    display: none;
+  }
+  #brake_nn #mode_1 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem !important;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #brake_nn .brake {
+    display: none;
+  }
+}
+#github {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#github svg {
+  transition: 0.2s ease-in-out;
+}
+
+#github:hover {
+  color: #03C988;
+}
+#github:hover svg {
+  margin-left: 5px;
+}
+
+#facebook {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#facebook svg {
+  transition: 0.2s ease-in-out;
+}
+
+#facebook:hover {
+  color: #2B3467;
+}
+#facebook:hover svg {
+  margin-left: 5px;
+}
+
+#instagram {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#instagram svg {
+  transition: 0.2s ease-in-out;
+}
+
+#instagram:hover {
+  color: #FF2171;
+}
+#instagram:hover svg {
+  margin-left: 5px;
+}
+
+#dribbble {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#dribbble svg {
+  transition: 0.2s ease-in-out;
+}
+
+#dribbble:hover {
+  color: #B3005E;
+}
+#dribbble:hover svg {
+  margin-left: 5px;
+}
+
+#behance {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#behance svg {
+  transition: 0.2s ease-in-out;
+  font-size: 3rem;
+}
+
+#behance:hover {
+  color: #525FE1;
+}
+#behance:hover svg {
+  margin-left: 5px;
+}
+
+#instagram_f {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#instagram_f svg {
+  transition: 0.2s ease-in-out;
+}
+
+#instagram_f:hover {
+  color: #2B3467;
+}
+#instagram_f:hover svg {
+  margin-left: 5px;
+}
+
+#facebook_f {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#facebook_f svg {
+  transition: 0.2s ease-in-out;
+}
+
+#facebook_f:hover {
+  color: #2B3467;
+}
+#facebook_f:hover svg {
+  margin-left: 5px;
+}
+
+#linkedin {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#linkedin svg {
+  transition: 0.2s ease-in-out;
+}
+
+#linkedin:hover {
+  color: #00C4FF;
+}
+#linkedin:hover svg {
+  margin-left: 5px;
+}
+
+#email {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#email span {
+  transition: 0.2s ease-in-out;
+}
+
+#email:hover {
+  color: #2B3467;
+}
+#email:hover span {
+  margin-left: 5px;
+}
+
+#phone {
+  text-decoration: none;
+  color: green-600;
+  color: #000;
+}
+#phone span {
+  transition: 0.2s ease-in-out;
+}
+
+#phone:hover {
+  color: #8EAC50;
+}
+#phone:hover span {
+  margin-left: 5px;
+}
+
+#kosova {
+  text-decoration: none;
+  color: green-600;
+  color: #1B6B93;
+}
+#kosova span {
+  transition: 0.2s ease-in-out;
+}
+
+#kosova:hover {
+  color: #F1C93B;
+}
+#kosova:hover span {
+  margin-left: 5px;
+}/*# sourceMappingURL=style.css.map */
